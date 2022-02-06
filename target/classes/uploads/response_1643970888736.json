@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "username": "user1",
+    "firstName": null,
+    "lastName": null,
+    "birthDate": null,
+    "city": null,
+    "country": null,
+    "avatar": null,
+    "company": null,
+    "jobPosition": null,
+    "mobile": null,
+    "email": null,
+    "password": "$2a$10$CRVoore2xhKzavpHs2KV9ewXHzTot5SLNRo7TlrvXKvVDXGYQvVmW",
+    "confirmedPassword": null,
+    "actived": false,
+    "roles": [
+      {
+        "id": 1,
+        "roleName": "USER"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "user2",
+    "firstName": null,
+    "lastName": null,
+    "birthDate": null,
+    "city": null,
+    "country": null,
+    "avatar": null,
+    "company": null,
+    "jobPosition": null,
+    "mobile": null,
+    "email": null,
+    "password": "$2a$10$9Jzt1lMLgraBKb55f/edE.13BIIPga3YmK2ztIG1pDtUYWAPX7QUW",
+    "confirmedPassword": null,
+    "actived": false,
+    "roles": [
+      {
+        "id": 1,
+        "roleName": "USER"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "user3",
+    "firstName": null,
+    "lastName": null,
+    "birthDate": null,
+    "city": null,
+    "country": null,
+    "avatar": null,
+    "company": null,
+    "jobPosition": null,
+    "mobile": null,
+    "email": null,
+    "password": "$2a$10$xGr/8cUmBKYxXfjydlC0Be9CkGh55gmu45Q3K4boUGneHuktV1Rtm",
+    "confirmedPassword": null,
+    "actived": false,
+    "roles": [
+      {
+        "id": 1,
+        "roleName": "USER"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "username": "admin",
+    "firstName": null,
+    "lastName": null,
+    "birthDate": null,
+    "city": null,
+    "country": null,
+    "avatar": null,
+    "company": null,
+    "jobPosition": null,
+    "mobile": null,
+    "email": null,
+    "password": "$2a$10$RA70bk6wOGnLD8rJoXS5WOuCap4RtnIjA4A/N4fZfdiLUD6ENlLiW",
+    "confirmedPassword": null,
+    "actived": false,
+    "roles": [
+      {
+        "id": 1,
+        "roleName": "USER"
+      },
+      {
+        "id": 2,
+        "roleName": "ADMIN"
+      }
+    ]
+  }
+]
